@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I see electricity and rocks as the magic system of this world, in the same way that what we consider as "supernatural" would be seen as magic in another
+I see electricity and rocks as the magic system of this world, in the same way that what we consider "supernatural" would be seen as magic in another
 
 I am a Python backend developer building tested APIs with FastAPI, PostgreSQL and Docker, driven by a desire to see just how far this magic can go.
 
@@ -19,7 +19,7 @@ I am a Python backend developer building tested APIs with FastAPI, PostgreSQL an
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `GitHub Actions`
 
-On the side, I love optimization and I'm open every kind of feedbacks!
+On the side, I love optimization and I'm open any kind of feedbacks!
 
 
 
