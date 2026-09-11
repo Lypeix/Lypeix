@@ -4,7 +4,8 @@ I see electricity and rocks as the magic system of this world, in the same way t
 
 I am a Python backend developer building tested APIs with FastAPI, PostgreSQL and Docker, driven by a desire to see just how far this magic can go.
 
-Currently developing LeapScope and GIGAHouse.
+Currently building **[LeapScope](https://github.com/Lypeix/leapscope)** — a privacy-conscious Windows activity analytics platform with a containerized FastAPI/PostgreSQL backend.
+
 
 On the side, I love optimization
 
