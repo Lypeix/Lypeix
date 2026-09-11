@@ -2,6 +2,14 @@
 
 I see electricity and rocks as the magic system of this world, in the same way that what we consider as "supernatural" would be seen as magic in another
 
+I am a Python backend developer building tested APIs with FastAPI, PostgreSQL and Docker, driven by a desire to see just how far this magic can go.
+
+Currently developing LeapScope and GIGAHouse.
+
+On the side, I love optimization
+
+
+
 <!--
 **Lypeix/Lypeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
