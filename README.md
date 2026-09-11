@@ -8,7 +8,7 @@ Currently building:
 - **[LeapScope](https://github.com/Lypeix/leapscope)** — a privacy-conscious Windows activity analytics platform with a containerized FastAPI/PostgreSQL backend.
 - [**GIGAHouse**](https://github.com/Lypeix/GIGAHouse) — a backend system for SKU tracking, item management and facility transfers.
 
-On the side, I love optimization and all sort of feedbacks!
+On the side, I love optimization and I'm open every kind of feedbacks!
 
 
 
