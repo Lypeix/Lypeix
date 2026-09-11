@@ -19,7 +19,7 @@ I am a Python backend developer building tested APIs with FastAPI, PostgreSQL an
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `GitHub Actions`
 
-On the side, I love optimization and I'm open to any kind of feedbacks!
+On the side, I'm particularly interested in optimization and performance engineering, and I'm always open to feedback.
 
 
 
