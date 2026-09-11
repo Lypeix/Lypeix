@@ -1,4 +1,3 @@
-## Hi there 👋
 I see electricity and rocks as the magic system of this world, much like what we consider "supernatural" would be seen as magic in another.
 ## About me
 - Building [**LeapScope**](https://github.com/Lypeix/leapscope) and [**GIGAHouse**](https://github.com/Lypeix/GIGAHouse)
