@@ -4,9 +4,20 @@ I see electricity and rocks as the magic system of this world, in the same way t
 
 I am a Python backend developer building tested APIs with FastAPI, PostgreSQL and Docker, driven by a desire to see just how far this magic can go.
 
-Currently building:
+## Currently building:
 - **[LeapScope](https://github.com/Lypeix/leapscope)** — a privacy-conscious Windows activity analytics platform with a containerized FastAPI/PostgreSQL backend.
 - [**GIGAHouse**](https://github.com/Lypeix/GIGAHouse) — a backend system for SKU tracking, item management and facility transfers.
+
+## About me
+
+- Python backend developer based in Poland
+- I prefer building fewer, deeper projects over collecting small tutorial repositories
+- Currently focused on backend engineering, SQL and system design
+- Long-term interests: performance engineering, distributed systems and AI infrastructure
+
+## Stack
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `GitHub Actions`
 
 On the side, I love optimization and I'm open every kind of feedbacks!
 
