@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I see electricity and rocks as the magic system of this world, in the same way that what we consider as "supernatural" would be seen as magic in another
+
 <!--
 **Lypeix/Lypeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
