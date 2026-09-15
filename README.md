@@ -29,16 +29,3 @@ Originally planned to pursue law and politics, but after finishing school I pivo
 
 </details>
 
-<details>
-<summary>🎵 Touching</summary>
-
-> Stand tall and march my legion  
-> Or you will face my wrath  
-> Can't hide those broken pieces  
-> So I'll string all the ones that are left when you  
-> Fall apart and fall  
-> You'll rise again, my dear  
-> So fall  
-> You'll rise again, my dear 🎵
-
-</details>
