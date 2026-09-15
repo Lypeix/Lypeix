@@ -4,4 +4,16 @@ I see electricity and rocks as the magic system of this world, much like what we
 - Focused on backend engineering, SQL and system design, with a growing emphasis on PostgreSQL and database systems.
 - `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `CI`
 - Originally planned to pursue law and politics, but after finishing school I pivoted to programming instead.
-- I still see myself as being in a very early phase, so any feedback would be appreciated. Even an aggressive 5 paragraph rant with no value 🙂
+<details>
+<summary>🎵 Touching</summary>
+
+> Stand tall and march my legion  
+> Or you will face my wrath  
+> Can't hide those broken pieces  
+> So I'll string all the ones that are left when you  
+> Fall apart and fall  
+> You'll rise again, my dear  
+> So fall  
+> You'll rise again, my dear 🎵
+
+</details>
