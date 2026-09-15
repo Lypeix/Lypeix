@@ -4,4 +4,4 @@ I see electricity and rocks as the magic system of this world, much like what we
 - Focused on backend engineering, SQL and system design, with a growing emphasis on PostgreSQL and database systems.
 - `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `CI`
 - Originally planned to pursue law and politics, but after finishing school I pivoted to programming instead.
-- I still see myself as being in a very early phase, so any feedback would be appreciated. Even an aggressive 5 paragraph rant 🙂
+- I still see myself as being in a very early phase, so any feedback would be appreciated. Even an aggressive 5 paragraph rant with no value 🙂
