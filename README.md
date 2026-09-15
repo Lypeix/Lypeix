@@ -1,9 +1,35 @@
 I see electricity and rocks as the magic system of this world, much like what we consider 'supernatural' would be seen as magic in another. My plan for this decade is to become a strong performance and distributed systems engineer, built on a solid backend foundation with a database focus and deep systems security knowledge.
-- Currently building [**LeapScope**](https://github.com/Lypeix/leapscope).
-- Furthermore, I indulge in programming-related activities outside GitHub, be it practicing, discussing or just reviewing my code
-- Focused on backend engineering, SQL and system design, with a growing emphasis on PostgreSQL and database systems.
-- `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `CI`
-- Originally planned to pursue law and politics, but after finishing school I pivoted to programming instead.
+
+<details>
+<summary>🚧 Currently building</summary>
+
+Currently building [**LeapScope**](https://github.com/Lypeix/leapscope).
+
+</details>
+
+<details>
+<summary>🧠 What I do</summary>
+
+Furthermore, I indulge in programming-related activities outside GitHub, be it practicing, discussing or just reviewing my code.
+
+Focused on backend engineering, SQL and system design, with a growing emphasis on PostgreSQL and database systems.
+
+</details>
+
+<details>
+<summary>⚙️ Stack</summary>
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `pytest` `CI`
+
+</details>
+
+<details>
+<summary>📖 Background</summary>
+
+Originally planned to pursue law and politics, but after finishing school I pivoted to programming instead.
+
+</details>
+
 <details>
 <summary>🎵 Touching</summary>
 
