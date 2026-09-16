@@ -10,8 +10,7 @@ Currently building [**LeapScope**](https://github.com/Lypeix/leapscope).
 <details>
 <summary>🧠 What I do</summary>
 
-I am focused on backend engineering, SQL and system design, with a growing emphasis on PostgreSQL and database systems. 
-Furthermore, I indulge in programming-related activities outside GitHub, be it practicing, discussing or just reviewing my code.
+I focus on backend development and aim to specialize in databases, especially PostgreSQL
 
 </details>
 
@@ -25,7 +24,7 @@ Furthermore, I indulge in programming-related activities outside GitHub, be it p
 <details>
 <summary>📖 Background</summary>
 
-Originally planned to pursue law and politics, but after finishing school I pivoted to programming instead. Despite "pretty promising" scores on my finals, I decided that the university path wouldn't really align with my personality
+Originally planned to pursue law and politics, but I pivoted to programming after finishing school. Despite scoring high on the finals, I ditched that path
 
 </details>
 
