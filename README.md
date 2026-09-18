@@ -24,7 +24,9 @@ I focus on backend development and aim to specialize in databases, especially Po
 <details>
 <summary>📖 Background</summary>
 
-Originally planned to pursue law and politics, but I pivoted to programming after finishing school. Despite scoring high on the finals, I concluded that time is of the essence and university would waste too much of that time, so I ditched the whole law idea
+Originally planned to pursue law and politics, but I pivoted to programming after finishing school. Despite scoring high on the finals, I concluded that time is of the essence and university would waste too much of that time, so I ditched the whole law idea.
+
+No point wasting 8 years on something I can probably cover in less than two.
 
 </details>
 
