@@ -28,7 +28,7 @@ Originally planned to pursue law and politics, but I pivoted to programming afte
 
 Despite scoring high on the finals, I concluded that time is of the essence and university would waste too much of that time, so I ditched the whole law idea.
 
-No point wasting 8 years on something I can probably cover in less than two.
+No point wasting 8 years on something I can probably cover in a few.
 
 The time-to-knowldge ratio is unacceptable! I should've seen that coming.
 
