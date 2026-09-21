@@ -16,7 +16,7 @@ Currently building [**LeapScope**](https://github.com/Lypeix/leapscope).
 
 I focus on backend development and aim to specialize in databases, especially PostgreSQL
 
-My philosophy: Breadth sprint first, depth campaign second. If you're going for a war... then you firstly need ammunition. 
+My philosophy: Breadth sprint first, depth campaign second. If you're going to a war... then you firstly need ammunition. 
 
 I am focusing more and more on the depth part now that I learned the basics of the backend stack I've desired to indulge myself in.
 
