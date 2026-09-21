@@ -18,7 +18,7 @@ I focus on backend development and aim to specialize in databases, especially Po
 
 My philosophy: Breadth sprint first, depth campaign second. If you're going to a war... then you firstly need ammunition. 
 
-I am focusing more and more on the depth part now that I learned the basics of the backend stack I've desired to indulge myself in.
+I am focusing more and more on the depth part now that I've learned most of the basics of the backend stack I've desired to indulge myself in.
 
 </details>
 
