@@ -1,8 +1,6 @@
 I see electricity and rocks as the magic system of this world, much like what we consider 'supernatural' would be seen as magic in another.
 
-My plan for this decade is to become a strong performance and distributed systems engineer, built on a solid backend foundation, with a database focus and deep systems security knowledge.
-
-That being said, life is unpredictable, therefore I am open to adapting.
+This decade, I aim to become a strong performance and distributed systems engineer, grounded in backend development, databases, and systems security. That being said, I am open to adjusting my career plans.
 
 <details>
 <summary>🚧 Currently building</summary>
