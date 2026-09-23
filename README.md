@@ -1,6 +1,6 @@
 I see electricity and rocks as the magic system of this world, much like what we consider 'supernatural' would be seen as magic in another.
 
-This decade, I aim to become a strong performance and distributed systems engineer, grounded in backend development, databases, and systems security. That being said, I am open to adjusting my career plans.
+This decade, I aim to become a strong performance and distributed systems engineer, grounded in backend development, databases, and systems security. However, I am open to adjusting my career plans.
 
 <details>
 <summary>🚧 Currently building</summary>
